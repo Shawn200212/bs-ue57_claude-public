@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "bs-ue57_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "bs-ue57": "84bdae77c7847a68ecc0d25934638b81ffbdbdfd079d0251f35052f9c0a9cce7"
+  }
+}
